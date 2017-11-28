@@ -13,5 +13,5 @@
 * 添加box 
 vagrant box add 目录名 box名称
 * 初始化box
-vagrant init 名称
-vagrant ssh : 以ssh登录box
+```* vagrant init 名称
+```* vagrant ssh : 以ssh登录box
