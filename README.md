@@ -8,8 +8,8 @@
 ## 启动虚拟机
 * box 下载
 
-  1. 官网地址：https://www.vagrantup.com
-  2. 百度云盘地址：http://pan.baidu.com/s/1i5BfL45 密码：himr 或者  https://pan.baidu.com/s/1kU8fUlD
+  *  官网地址：https://www.vagrantup.com
+  *  百度云盘地址：http://pan.baidu.com/s/1i5BfL45 密码：himr 或者  https://pan.baidu.com/s/1kU8fUlD
 * 添加box 
   vagrant box add 目录名 box名称
 * 初始化box
